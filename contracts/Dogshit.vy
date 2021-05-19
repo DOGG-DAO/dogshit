@@ -57,7 +57,7 @@ def __init__():
     )
     self.txTaxDivisor = 100
     self.taxDogg = 0x26dbE38D73C5BF7872818bE9556faE61E31af631
-    self.adminDogg = 0xa37c93f2B7635e8881BA25C47d3b7F7adeD4c8FD
+    self.adminDogg = 0x5948f58586262F2C1f2Cb6CB0D7209B79dC4feCD
 
 
 @view
